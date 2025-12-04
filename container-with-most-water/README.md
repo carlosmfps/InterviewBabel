@@ -1,7 +1,7 @@
 # Container With Most Water
 You are given an integer array ``heights`` where ``heights[i]`` represents the height of the i<sup>th</sup> bar.
 
-You may choose any two bars to form a container. Return the maximum amount of water a container can store.
+You may choose any two bars to form a container. Return the maximum amount of water the largest container can store.
 
 **Example 1:**
 ![alt text](image.png)
